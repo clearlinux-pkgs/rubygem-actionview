@@ -4,7 +4,7 @@
 #
 Name     : rubygem-actionview
 Version  : 5.0.0
-Release  : 14
+Release  : 15
 URL      : https://rubygems.org/downloads/actionview-5.0.0.gem
 Source0  : https://rubygems.org/downloads/actionview-5.0.0.gem
 Summary  : No detailed summary available
